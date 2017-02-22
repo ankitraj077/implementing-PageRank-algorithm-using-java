@@ -1,5 +1,5 @@
 ### Welcome Friends
-Hii, I am Ankit Raj from Noida,India.I am pursuing my graduation in Information Technology from JSS Academy of Technical Education(AKTU).In this project is based on information retrieval through machine learning.
+Hii, I am Ankit Raj from Noida,India.I am pursuing my graduation in Information Technology from JSS Academy of Technical Education(AKTU). This project is based on information retrieval through machine learning.
 
 ### Introduction
 The Internet is the global system of interconnected mainframe, personal, and wireless computer networks that use the Internet protocol suit (TCP/IP) to link billions of devices worldwide. It is a network of networks that consists of millions of private, public, academic, business, and government networks of local to global scope.The Web has also enabled individuals and organizations to publish ideas and information to a potentially large audience online at greatly reduced expense and time delay.
