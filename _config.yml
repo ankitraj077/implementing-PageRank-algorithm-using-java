@@ -1,0 +1,8 @@
+title: Implementing-pagerank-algorithm-using-java
+description: "This is the successful implementation of PageRank algorithm using java. In this project, the library that are used are: java html parter, java html toolkit."
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
